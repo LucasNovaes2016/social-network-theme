@@ -1,0 +1,27 @@
+nav {
+  img {
+    height: 40px;
+  }
+
+  i {
+    color: white;
+  }
+}
+
+.img-circle {
+  border-radius: 50%;
+}
+
+#colaside {
+  .img-circle {
+    margin-top: -60px;
+  }
+}
+
+.user-relations {
+  border-left: 2px solid 	#696969;
+}
+
+.bordered {
+  border: 2px solid black;
+}
